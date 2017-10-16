@@ -1,0 +1,12 @@
+# Human (object)
+
+## Properties
++ class: prokariate (string)
++ fraction (number)
++ organs (object)
+  - liver: true
+  - kidneys (object)
+    + left: true
+    + right: true
+  - brain (brainT)
++ `other zombies targeting this player`: 0 (number)
